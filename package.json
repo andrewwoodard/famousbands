@@ -1,0 +1,19 @@
+{
+  "name": "famousbands",
+  "version": "0.0.0",
+  "description": "Famous bands helps you integrate the Famo.us engine into your website as a responsive row.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewwoodard/famousbands.git"
+  },
+  "author": "Andrew Woodard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewwoodard/famousbands/issues"
+  },
+  "homepage": "https://github.com/andrewwoodard/famousbands"
+}
